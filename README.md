@@ -1,5 +1,13 @@
 # Chess game in Java ♟️
 
-A very fun project using Java language to build a chess game. 
+This project was developed using the Java language. It was a challenge to consolide the basic Object Oriented Programing paradigm in practice. Also, I've learned how to read and follow a UML diagram and each relationship between classes and its meanings.
 
-[To be continue]
+## Instructions to play
+[TODO]
+
+## Project development
+
+[TODO]
+
+### Diagram specifications
+![Project](chess-system-design.png)
